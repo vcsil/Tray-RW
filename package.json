@@ -1,0 +1,23 @@
+{
+  "name": "06---tray-rw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcsil/Tray-RW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcsil/Tray-RW/issues"
+  },
+  "homepage": "https://github.com/vcsil/Tray-RW#readme",
+  "dependencies": {
+    "@tray-tecnologia/tray-cli": "^1.0.1"
+  }
+}
